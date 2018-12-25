@@ -19,7 +19,7 @@
   "homepage": "https://github.com/wahengchang/lodash-vs-es6#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "js-meter": "^1.1.2",
-    "lodash": "^4.17.10"
+    "js-meter": "^1.1.4",
+    "lodash": "^4.17.11"
   }
 }
