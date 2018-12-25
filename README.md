@@ -1,5 +1,5 @@
-# `_.map()` vs `[].map()`
-It is a resource comparation between `map by @lodash` and `map by ES6` and `each by @lodash`, by headling an json with 10,000 data
+# `map by @lodash` vs `map by ES6` vs `each by @lodash`
+It is a resource comparation between `map by @lodash` and `map by ES6` and `each by @lodash`, by headling an json with 30,000 data
 
 ## Generating json file with 30,000 objects array
 ```
